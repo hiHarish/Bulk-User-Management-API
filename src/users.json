@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "69de07fef1f171ca9115c1bc",
+    "name": "Test1",
+    "email": "test1@mail.com",
+    "age": 25,
+    "status": "active",
+    "__v": 0,
+    "createdAt": "2026-04-14T09:25:18.689Z",
+    "updatedAt": "2026-04-14T09:25:18.689Z"
+  },
+  {
+    "_id": "69de07fef1f171ca9115c1bd",
+    "name": "Test2",
+    "email": "test2@mail.com",
+    "age": 30,
+    "status": "active",
+    "__v": 0,
+    "createdAt": "2026-04-14T09:25:18.694Z",
+    "updatedAt": "2026-04-14T09:25:18.694Z"
+  },
+  {
+    "_id": "69de125c891c4ba1ddf6fd3e",
+    "name": "User1",
+    "email": "user1@test.com",
+    "age": 35,
+    "status": "active",
+    "__v": 0,
+    "createdAt": "2026-04-14T10:09:32.289Z",
+    "updatedAt": "2026-04-14T10:12:23.765Z"
+  },
+  {
+    "_id": "69de125c891c4ba1ddf6fd3f",
+    "name": "User2",
+    "email": "user2@test.com",
+    "age": 30,
+    "status": "active",
+    "__v": 0,
+    "createdAt": "2026-04-14T10:09:32.293Z",
+    "updatedAt": "2026-04-14T10:12:23.765Z"
+  }
+]
